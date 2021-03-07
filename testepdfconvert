@@ -46,8 +46,9 @@ namespace ConvertToPdf
 
 
         }
-        public void teste()
+        public int teste()
         {
+            return 1
         }
     }
 }
